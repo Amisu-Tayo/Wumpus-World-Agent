@@ -39,7 +39,7 @@ An interactive **Wumpus World** simulator built in **Python + Pygame**, featurin
 ## ⚙️ How to Run
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/wumpus-world-agent.git
+git clone https://github.com/Amisu-Tayo/wumpus-world-agent.git
 cd wumpus-world-agent
 pip install pygame
 ```
